@@ -244,11 +244,13 @@ SWIFT_CLASS("_TtC9StopWatch13SceneDelegate")
 SWIFT_CLASS("_TtC9StopWatch14ViewController")
 @interface ViewController : UIViewController
 @property (nonatomic, strong) IBOutlet UILabel * _Null_unspecified timeLabel;
+@property (nonatomic, strong) IBOutlet UILabel * _Null_unspecified hanteiLabel;
 - (void)viewDidLoad;
 - (IBAction)start;
 - (IBAction)stop;
 - (void)up;
 - (IBAction)reset;
+- (void)hantei;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end

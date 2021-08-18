@@ -46,6 +46,12 @@
                                     <action selector="reset" destination="BYZ-38-t0r" eventType="touchUpInside" id="nCh-Eu-EMf"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LRq-Co-BvE">
+                                <rect key="frame" x="171.5" y="85" width="71" height="36"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -55,12 +61,15 @@
                             <constraint firstItem="4cE-Vu-uRT" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" multiplier="1.1" id="A2p-aJ-5W9"/>
                             <constraint firstItem="p2X-lh-hjf" firstAttribute="top" secondItem="3fZ-KQ-Qby" secondAttribute="bottom" constant="25" id="Bgd-UH-RZA"/>
                             <constraint firstItem="4cE-Vu-uRT" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="DkK-nb-YqA"/>
+                            <constraint firstItem="LRq-Co-BvE" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Oq4-ek-8h8"/>
                             <constraint firstItem="7sh-P6-PEd" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Pua-0N-aCB"/>
+                            <constraint firstItem="7sh-P6-PEd" firstAttribute="top" secondItem="LRq-Co-BvE" secondAttribute="bottom" constant="10" id="gS7-R5-Ko4"/>
                             <constraint firstItem="3fZ-KQ-Qby" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="na9-EP-m9K"/>
                             <constraint firstItem="3fZ-KQ-Qby" firstAttribute="top" secondItem="4cE-Vu-uRT" secondAttribute="bottom" constant="25" id="zVV-IN-h1v"/>
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="hanteiLabel" destination="LRq-Co-BvE" id="2bX-4J-jh0"/>
                         <outlet property="timeLabel" destination="7sh-P6-PEd" id="aAa-S2-1wu"/>
                     </connections>
                 </viewController>

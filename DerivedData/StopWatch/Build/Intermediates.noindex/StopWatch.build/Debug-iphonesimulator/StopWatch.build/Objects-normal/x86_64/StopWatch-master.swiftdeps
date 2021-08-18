@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
 options: "b80b5fe6f47ebe1b23b60db424a90359"
-build_time: [1629312770, 895072000]
+build_time: [1629314396, 332387000]
 inputs:
-  "/Users/hazuki/Desktop/13/la/lifeistech/StopWatch/StopWatch/ViewController.swift": [1629312770, 42108809]
+  "/Users/hazuki/Desktop/13/la/lifeistech/StopWatch/StopWatch/ViewController.swift": [1629314396, 94162404]
   "/Users/hazuki/Desktop/13/la/lifeistech/StopWatch/StopWatch/AppDelegate.swift": [1629294960, 778308146]
   "/Users/hazuki/Desktop/13/la/lifeistech/StopWatch/StopWatch/SceneDelegate.swift": [1629294960, 787520962]

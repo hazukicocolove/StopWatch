@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>E5D9C211-3DCD-43C0-B0E5-C48EA152060E</key>
+		<key>E5767AC6-6FFD-4BE1-AF67-00A360CBEC95</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>E5D9C211-3DCD-43C0-B0E5-C48EA152060E.xcactivitylog</string>
+			<string>E5767AC6-6FFD-4BE1-AF67-00A360CBEC95.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>StopWatch-dpnyrrpbegswuxefeymusjxqkavi</string>
 			<key>timeStartedRecording</key>
-			<real>651005864.56469405</real>
+			<real>651007196.33318305</real>
 			<key>timeStoppedRecording</key>
-			<real>651005864.90147901</real>
+			<real>651007198.929124</real>
 			<key>title</key>
 			<string>Build target StopWatch</string>
 			<key>uniqueIdentifier</key>
-			<string>E5D9C211-3DCD-43C0-B0E5-C48EA152060E</string>
+			<string>E5767AC6-6FFD-4BE1-AF67-00A360CBEC95</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

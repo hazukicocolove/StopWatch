@@ -10,6 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet var timeLabel: UILabel!
+    @IBOutlet var hanteiLabel: UILabel!
     
     var count:Float = 0.0
     var timer: Timer = Timer()
@@ -28,12 +29,14 @@ class ViewController: UIViewController {
                                          userInfo: nil,
                                          repeats: true
             )
+            hanteiLabel.text = ""
         }
     }
 
     @IBAction func stop(){
         if timer.isValid{
             timer.invalidate()
+            self.hantei()
         }
         
     }
@@ -47,7 +50,20 @@ class ViewController: UIViewController {
         if timer.isValid{
             timer.invalidate()
         }
-            timeLabel.text = "0.00"
+            count = 0
+        timeLabel.text = String(format: "%.2f", count)
+    }
+    
+    @objc func hantei(){
+        if count < 10.2 && count > 9.70  {
+           hanteiLabel.text = "perfect"
+        }else if count < 10.3 && count > 9.80 {
+            hanteiLabel.text = "great"
+        }else if count < 10.5 && count > 9.50 {
+            hanteiLabel.text = "good"
+         }else{
+            hanteiLabel.text = "OMG"
+         }
     }
     
 }
