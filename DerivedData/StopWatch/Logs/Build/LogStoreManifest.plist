@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>06EFA24B-7A61-43C1-9338-9D18D3B18159</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>06EFA24B-7A61-43C1-9338-9D18D3B18159.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StopWatch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StopWatch</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build StopWatch</string>
+			<key>timeStartedRecording</key>
+			<real>651005521.18060195</real>
+			<key>timeStoppedRecording</key>
+			<real>651005521.58001602</real>
+			<key>title</key>
+			<string>Build StopWatch</string>
+			<key>uniqueIdentifier</key>
+			<string>06EFA24B-7A61-43C1-9338-9D18D3B18159</string>
+		</dict>
+		<key>2D1C71C4-6C26-4DE6-9967-E0691B49BE3F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2D1C71C4-6C26-4DE6-9967-E0691B49BE3F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StopWatch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StopWatch</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build StopWatch</string>
+			<key>timeStartedRecording</key>
+			<real>651002910.04654503</real>
+			<key>timeStoppedRecording</key>
+			<real>651002916.690117</real>
+			<key>title</key>
+			<string>Build StopWatch</string>
+			<key>uniqueIdentifier</key>
+			<string>2D1C71C4-6C26-4DE6-9967-E0691B49BE3F</string>
+		</dict>
+		<key>3B4D2963-D44B-43BC-AFCA-45FDD89064E9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B4D2963-D44B-43BC-AFCA-45FDD89064E9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StopWatch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StopWatch</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build StopWatch</string>
+			<key>timeStartedRecording</key>
+			<real>651005503.08644605</real>
+			<key>timeStoppedRecording</key>
+			<real>651005503.50279105</real>
+			<key>title</key>
+			<string>Build StopWatch</string>
+			<key>uniqueIdentifier</key>
+			<string>3B4D2963-D44B-43BC-AFCA-45FDD89064E9</string>
+		</dict>
+		<key>52E633D5-C975-42E4-9235-0F6E4633E6C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>52E633D5-C975-42E4-9235-0F6E4633E6C3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StopWatch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StopWatch</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build StopWatch</string>
+			<key>timeStartedRecording</key>
+			<real>651005453.24516296</real>
+			<key>timeStoppedRecording</key>
+			<real>651005458.03228903</real>
+			<key>title</key>
+			<string>Build StopWatch</string>
+			<key>uniqueIdentifier</key>
+			<string>52E633D5-C975-42E4-9235-0F6E4633E6C3</string>
+		</dict>
+		<key>55D4342E-1959-4CE7-8594-B514AFC9D0CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55D4342E-1959-4CE7-8594-B514AFC9D0CE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StopWatch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StopWatch</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build StopWatch</string>
+			<key>timeStartedRecording</key>
+			<real>651002774.97487903</real>
+			<key>timeStoppedRecording</key>
+			<real>651002775.28792095</real>
+			<key>title</key>
+			<string>Build StopWatch</string>
+			<key>uniqueIdentifier</key>
+			<string>55D4342E-1959-4CE7-8594-B514AFC9D0CE</string>
+		</dict>
+		<key>7AC4F2F9-1756-4E90-9CFF-3C113F406BD4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7AC4F2F9-1756-4E90-9CFF-3C113F406BD4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StopWatch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StopWatch</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build StopWatch</string>
+			<key>timeStartedRecording</key>
+			<real>651005269.929492</real>
+			<key>timeStoppedRecording</key>
+			<real>651005271.06361604</real>
+			<key>title</key>
+			<string>Build StopWatch</string>
+			<key>uniqueIdentifier</key>
+			<string>7AC4F2F9-1756-4E90-9CFF-3C113F406BD4</string>
+		</dict>
+		<key>7C91BC60-F70A-470B-AAEA-2FFA7FBA0A1D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7C91BC60-F70A-470B-AAEA-2FFA7FBA0A1D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StopWatch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StopWatch</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build StopWatch</string>
+			<key>timeStartedRecording</key>
+			<real>651003525.28084898</real>
+			<key>timeStoppedRecording</key>
+			<real>651003525.51325297</real>
+			<key>title</key>
+			<string>Build StopWatch</string>
+			<key>uniqueIdentifier</key>
+			<string>7C91BC60-F70A-470B-AAEA-2FFA7FBA0A1D</string>
+		</dict>
+		<key>7E622D7B-700A-4B9F-9B69-658C36BF4BFD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E622D7B-700A-4B9F-9B69-658C36BF4BFD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StopWatch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StopWatch</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build StopWatch</string>
+			<key>timeStartedRecording</key>
+			<real>651005864.44978297</real>
+			<key>timeStoppedRecording</key>
+			<real>651005864.910882</real>
+			<key>title</key>
+			<string>Build StopWatch</string>
+			<key>uniqueIdentifier</key>
+			<string>7E622D7B-700A-4B9F-9B69-658C36BF4BFD</string>
+		</dict>
+		<key>9564B347-F1AC-4E54-8756-A3217E262AE3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9564B347-F1AC-4E54-8756-A3217E262AE3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StopWatch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StopWatch</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build StopWatch</string>
+			<key>timeStartedRecording</key>
+			<real>651005570.74189794</real>
+			<key>timeStoppedRecording</key>
+			<real>651005571.73486495</real>
+			<key>title</key>
+			<string>Build StopWatch</string>
+			<key>uniqueIdentifier</key>
+			<string>9564B347-F1AC-4E54-8756-A3217E262AE3</string>
+		</dict>
+		<key>C9175370-591C-4100-BCF6-9778F22CBEE1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C9175370-591C-4100-BCF6-9778F22CBEE1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StopWatch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StopWatch</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build StopWatch</string>
+			<key>timeStartedRecording</key>
+			<real>651005701.041291</real>
+			<key>timeStoppedRecording</key>
+			<real>651005705.55379105</real>
+			<key>title</key>
+			<string>Build StopWatch</string>
+			<key>uniqueIdentifier</key>
+			<string>C9175370-591C-4100-BCF6-9778F22CBEE1</string>
+		</dict>
+		<key>ECA677CD-5A5A-4302-B773-54261F2A95B0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ECA677CD-5A5A-4302-B773-54261F2A95B0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StopWatch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StopWatch</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build StopWatch</string>
+			<key>timeStartedRecording</key>
+			<real>651002923.92224705</real>
+			<key>timeStoppedRecording</key>
+			<real>651002924.711344</real>
+			<key>title</key>
+			<string>Build StopWatch</string>
+			<key>uniqueIdentifier</key>
+			<string>ECA677CD-5A5A-4302-B773-54261F2A95B0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
